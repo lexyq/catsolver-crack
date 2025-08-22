@@ -1,4 +1,4 @@
-# catsolver-crack
+# catsolver-deobfuscate
 
 https://vacban.wtf/threads/107740/ vacban post,
 https://vacban.wtf/members/123113/ user
