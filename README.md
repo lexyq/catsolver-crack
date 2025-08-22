@@ -8,4 +8,4 @@ he used: string obf, renaming obf (via ASCII). and some minification
 original/deobfuscated
 for skeet/gamesense for csgo
 
-easy
+difficulty: easy
